@@ -12,6 +12,9 @@ I use this GitHub profile to collect projects related to cybersecurity, incident
 - [Learning Journey: Epicode e Laboratori](https://github.com/AndrewG83-sdt/cerberussec-site/blob/main/LEARNING-JOURNEY.md)
   Context for repositories created during my Epicode path and practical labs.
 
+- [Technical Tooling Guide](https://github.com/AndrewG83-sdt/cerberussec-site/blob/main/TOOLING.md)
+  Overview of the repositories that show scripts, tooling, automation, and defensive workflows.
+
 ## Focus Areas
 
 - Incident response and post-incident analysis
@@ -40,6 +43,18 @@ I use this GitHub profile to collect projects related to cybersecurity, incident
 
 - [23andMe-Breach-2023-study-case](https://github.com/AndrewG83-sdt/23andMe-Breach-2023-study-case)
   Defensive case study based on public reporting and lessons learned.
+
+## Technical Tooling
+
+Beyond reports and case studies, I also keep visible repositories that show practical defensive tooling and operational workflows:
+
+- [Cyber-nmap-playbook](https://github.com/AndrewG83-sdt/Cyber-nmap-playbook)
+- [port-scanner-didattico](https://github.com/AndrewG83-sdt/port-scanner-didattico)
+- [linux-hardening-starter](https://github.com/AndrewG83-sdt/linux-hardening-starter)
+- [Script-Python-per-Avvio-di-OpenVAS-GVM-su-Kali-Linux](https://github.com/AndrewG83-sdt/Script-Python-per-Avvio-di-OpenVAS-GVM-su-Kali-Linux)
+- [opencti-starter-notes](https://github.com/AndrewG83-sdt/opencti-starter-notes)
+
+These repositories help show the tooling side of my work: scripting, repeatable workflows, automation support, and defensive lab operations.
 
 ## Learning Journey and Epicode
 
